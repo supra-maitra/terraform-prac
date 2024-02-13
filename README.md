@@ -1,1 +1,1 @@
-# terraform-prac
+# Reddit-Clone-app
